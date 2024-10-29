@@ -1,1 +1,1 @@
-# A simple bank managment system that have dealing with Users and thier permissions, and Users who manage people in the system. The system also include transactional process like deposit, withdraw and others. enjoy explore it
+## A simple bank managment system that have dealing with Users and thier permissions, and Users who manage people in the system. The system also include transactional process like deposit, withdraw and others. enjoy explore it
