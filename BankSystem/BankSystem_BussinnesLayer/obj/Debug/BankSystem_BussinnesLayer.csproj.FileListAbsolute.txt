@@ -1,0 +1,9 @@
+C:\Users\lenovo\Desktop\BankSystemConsoleApp\BankSystem_BussinnesLayer\bin\Debug\BankSystem_BussinnesLayer.dll
+C:\Users\lenovo\Desktop\BankSystemConsoleApp\BankSystem_BussinnesLayer\bin\Debug\BankSystem_BussinnesLayer.pdb
+C:\Users\lenovo\Desktop\BankSystemConsoleApp\BankSystem_BussinnesLayer\bin\Debug\BankSystem_DataAccessLayer.dll
+C:\Users\lenovo\Desktop\BankSystemConsoleApp\BankSystem_BussinnesLayer\bin\Debug\BankSystem_DataAccessLayer.pdb
+C:\Users\lenovo\Desktop\BankSystemConsoleApp\BankSystem_BussinnesLayer\obj\Debug\BankSystem_BussinnesLayer.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\BankSystemConsoleApp\BankSystem_BussinnesLayer\obj\Debug\BankSystem_BussinnesLayer.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\BankSystemConsoleApp\BankSystem_BussinnesLayer\obj\Debug\BankSystem_BussinnesLayer.csproj.CopyComplete
+C:\Users\lenovo\Desktop\BankSystemConsoleApp\BankSystem_BussinnesLayer\obj\Debug\BankSystem_BussinnesLayer.dll
+C:\Users\lenovo\Desktop\BankSystemConsoleApp\BankSystem_BussinnesLayer\obj\Debug\BankSystem_BussinnesLayer.pdb
